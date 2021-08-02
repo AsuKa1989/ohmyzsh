@@ -77,6 +77,11 @@ source $ZSH/oh-my-zsh.sh ~/.profile
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
+#export http_proxy=192.168.33.233:5200
+#export https_proxy=192.168.33.233:5200
+#export JAVA_HOME="/home/ak/devtools/jdk1.8.0_221"
+#export MAVEN_HOME="/home/ak/devtools/apache-maven-3.6.3"
+#export PATH=$JAVA_HOME/bin:$MAVEN_HOME/bin:$PATH
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
